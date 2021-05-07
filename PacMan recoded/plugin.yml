@@ -1,0 +1,10 @@
+name: Pacman
+main: me.Pacman.Tobyo.Pacman
+author: ytTobyo
+version: 1.0
+website: https://www.twitch.tv/yt_Tobyo
+commands:
+  set:
+    description: Set locations for Pacman
+  maxcoins:
+    description: Set maxcoins for Pacman
