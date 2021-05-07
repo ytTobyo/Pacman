@@ -1,7 +1,7 @@
 name: Pacman
 main: me.Pacman.Tobyo.Pacman
 author: ytTobyo
-version: 1.0
+version: alpha 1.0
 website: https://www.twitch.tv/yt_Tobyo
 commands:
   set:
